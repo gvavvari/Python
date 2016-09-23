@@ -1,0 +1,2 @@
+- The python file has the code to generate the n th fibonacci number and the index of any given fibonacci number
+- See attached pdf documentation for more details
